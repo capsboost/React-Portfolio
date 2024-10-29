@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+    background-color: whitesmoke ;
+}
+.nav{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color:  rgb(229, 231, 235);
+}
+.nav-cont{
+    background-color: transparent;
+}
+.btn{
+    width: 80px;
+    margin: 3px;
+}
+.hBtn{
+    width: 120px;
+    margin: 3px;
+    background-color: black;
+    padding: 15px;
+    margin: 3px;
+}
+.abtn{
+    width: 100px;
+    margin: 25px;
+    height: 40px;
+}
+.sbtn{
+    position: relative;
+    top: -67px;
+}
+.Hero{
+    background-color: rgb(229, 231, 235);
+    width: 100%;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+.cImg{
+    border-radius: 100%;
+    margin: 18px;
+    
+}
+.heroImg{
+    max-width: 15%;
+    min-width: 200px;
+}
+.company{
+    background-color:whitesmoke;
+    width: 100%;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    position: relative;
+    z-index: 2;
+}
+.collab{
+    z-index: 1;
+    padding-top: 110px ;
+    top: -80px;
+    position: relative;
+    
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    min-width: 140px;
+    width: 22%;
+}
+.Mysec{
+    position: relative;
+    z-index: 3;
+    top: -130px;
+}
+.blank{
+    position: relative;
+    top: -135px;
+}
+.About{
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    z-index: 4;
+    position: relative;
+    top: -230px;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.foot{
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color:  whitesmoke;
+    position: relative;
+    z-index: 5;
+    bottom: 250px;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+

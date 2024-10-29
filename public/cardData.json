@@ -1,0 +1,22 @@
+[
+    {
+        "logo":"./src/assets/react.svg",
+        "title":"UX & UI",
+        "paragraph":"Designing interfaces that are intuitive, efficient, and enjoyable to use."
+    },
+    {
+        "logo":"../src/assets/react.svg",
+        "title":"Web & Mobile App",
+        "paragraph":"Transforming ideas into exceptional web and mobile app experiences."
+    },
+    {
+        "logo":"./src/assets/react.svg",
+        "title":"Design & Creative",
+        "paragraph":"Crafting visually stunning designs that connect with your audience."
+    },
+    {
+        "logo":"./src/assets/react.svg",
+        "title":"Development",
+        "paragraph":"Bringing your vision to life with the latest technology and design trends."
+    }
+]
